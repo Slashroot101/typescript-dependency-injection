@@ -1,0 +1,29 @@
+{
+  "name": "typescript-dependency-injection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start:dev": "npx nodemon"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.12",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "typedi": "^0.10.0",
+    "typescript": "^4.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slashroot101/typescript-dependency-injection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slashroot101/typescript-dependency-injection/issues"
+  },
+  "homepage": "https://github.com/Slashroot101/typescript-dependency-injection#readme"
+}
